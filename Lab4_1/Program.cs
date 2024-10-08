@@ -7,6 +7,7 @@ MyMatrix mat2 = new MyMatrix(5, 7, 0, 10);
 MyMatrix mat3 = new MyMatrix(2, 3, 0, 6);
 MyMatrix mat4 = new MyMatrix(3, 4, 0, 6);
 
+Console.WriteLine(mat2[1, 1]);
 
 mat3.writting_matrix();
 

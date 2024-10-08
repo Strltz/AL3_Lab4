@@ -36,7 +36,7 @@ namespace Lab4_1
         {
             get
             {
-                return this[index_line, index_column];
+                return matrix[index_line, index_column];
             }
         }
 
